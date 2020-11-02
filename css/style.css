@@ -189,9 +189,19 @@
 	background-color: #fff;
 
 }
-
+.circle{
+	border-radius: 50%;
+	background-color: #5863F8;
+	width: 59px;
+	height: 58px;
+	position: relative;
+	margin-top:20px;
+	margin-left:100px;
+	margin-bottom: 10px;
+}
 .box1 img{
-	margin:10px 100px 10px;
+	margin:15px;
+	position: absolute;
 }
 
 .box1 h4{
@@ -202,11 +212,12 @@
 	font-style: bolder;
 	margin-left: 60px;
 	margin-bottom: 20px;
-	width:160px;
+	width:180px;
 }
 .box1 p{
 	font-size: 14px;
 	color:#B1B1B1;
 	font-family: 'Poppins';
 	width:260px;
+	text-indent: 30px;
 }
