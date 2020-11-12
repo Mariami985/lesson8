@@ -105,6 +105,11 @@
 	.image{
 		flex-direction: column;
 		width: 100%;
+
+	}
+	.image:nth-child(2){
+		margin-top: 10px;
+		margin-bottom: 10px;
 	}
 }
 /*footer*/
